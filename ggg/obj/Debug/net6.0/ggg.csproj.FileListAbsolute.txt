@@ -1,0 +1,15 @@
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\bin\Debug\net6.0\ggg.exe
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\bin\Debug\net6.0\ggg.deps.json
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\bin\Debug\net6.0\ggg.runtimeconfig.json
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\bin\Debug\net6.0\ggg.dll
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\bin\Debug\net6.0\ggg.pdb
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\ggg.csproj.AssemblyReference.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\ggg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\ggg.AssemblyInfoInputs.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\ggg.AssemblyInfo.cs
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\ggg.csproj.CoreCompileInputs.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\ggg.dll
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\refint\ggg.dll
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\ggg.pdb
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\ggg.genruntimeconfig.cache
+C:\Users\vasil\OneDrive\Рабочий стол\gitNew\ggg\obj\Debug\net6.0\ref\ggg.dll
